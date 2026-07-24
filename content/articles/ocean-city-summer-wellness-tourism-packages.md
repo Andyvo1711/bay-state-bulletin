@@ -4,7 +4,7 @@ slug: "ocean-city-summer-wellness-tourism-packages"
 excerpt: "Ocean City hotels are introducing bundled wellness packages combining spa treatments and fitness classes to capture a larger share of summer tourism spending."
 category: "beauty-wellness"
 date: "2026-06-13"
-coverImage: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

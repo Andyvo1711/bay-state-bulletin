@@ -4,7 +4,7 @@ slug: "t-rowe-price-baltimore-headquarters-lease-renewal"
 excerpt: "Investment firm T. Rowe Price signed a long-term lease renewal for its downtown Baltimore headquarters, easing concerns about the company relocating."
 category: "finance-economy"
 date: "2026-01-27"
-coverImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

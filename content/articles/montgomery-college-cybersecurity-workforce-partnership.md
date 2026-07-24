@@ -4,7 +4,7 @@ slug: "montgomery-college-cybersecurity-workforce-partnership"
 excerpt: "Montgomery College is partnering with federal agencies and private contractors to train students directly for entry-level cybersecurity positions."
 category: "education"
 date: "2026-05-06"
-coverImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

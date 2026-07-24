@@ -4,7 +4,7 @@ slug: "mercy-medical-center-baltimore-womens-imaging-center"
 excerpt: "Mercy Medical Center opened an expanded women's imaging center offering same-day breast cancer screening results in downtown Baltimore."
 category: "healthcare"
 date: "2026-03-17"
-coverImage: "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1580281657702-257584239a55?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

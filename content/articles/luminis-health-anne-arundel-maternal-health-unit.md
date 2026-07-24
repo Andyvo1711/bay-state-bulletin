@@ -4,7 +4,7 @@ slug: "luminis-health-anne-arundel-maternal-health-unit"
 excerpt: "Luminis Health opened a redesigned maternal health unit at Anne Arundel Medical Center, adding private postpartum rooms and expanded NICU capacity."
 category: "healthcare"
 date: "2026-04-09"
-coverImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

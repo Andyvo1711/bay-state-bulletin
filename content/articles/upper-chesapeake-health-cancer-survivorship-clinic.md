@@ -4,7 +4,7 @@ slug: "upper-chesapeake-health-cancer-survivorship-clinic"
 excerpt: "Upper Chesapeake Health launched a survivorship clinic in Bel Air focused on the long-term needs of patients who have completed cancer treatment."
 category: "healthcare"
 date: "2026-02-11"
-coverImage: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1631815589968-fdb09a223b1e?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

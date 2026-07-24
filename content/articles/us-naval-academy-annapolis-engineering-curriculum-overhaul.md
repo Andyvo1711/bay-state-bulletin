@@ -4,7 +4,7 @@ slug: "us-naval-academy-annapolis-engineering-curriculum-overhaul"
 excerpt: "The U.S. Naval Academy in Annapolis is restructuring its engineering curriculum to place greater emphasis on cyber operations and autonomous systems."
 category: "education"
 date: "2026-05-22"
-coverImage: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

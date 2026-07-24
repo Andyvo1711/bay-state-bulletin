@@ -4,7 +4,7 @@ slug: "i-270-biotech-corridor-venture-capital-inflows"
 excerpt: "Venture capital investment in Maryland's I-270 biotech corridor reached its highest level in five years, driven by cell and gene therapy startups."
 category: "finance-economy"
 date: "2026-04-30"
-coverImage: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

@@ -4,7 +4,7 @@ slug: "umms-rural-hospital-telehealth-network"
 excerpt: "The University of Maryland Medical System is expanding a telehealth specialist network to rural hospitals on the Eastern Shore and Western Maryland."
 category: "healthcare"
 date: "2026-03-30"
-coverImage: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

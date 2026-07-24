@@ -4,7 +4,7 @@ slug: "maryland-unemployment-rate-federal-workforce-exposure"
 excerpt: "Maryland's unemployment rate rose modestly as federal government workforce reductions began affecting the state's large population of federal employees and contractors."
 category: "finance-economy"
 date: "2026-02-13"
-coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1495556650867-99590cea3657?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

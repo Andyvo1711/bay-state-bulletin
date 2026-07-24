@@ -4,7 +4,7 @@ slug: "johns-hopkins-hospital-cancer-center-expansion"
 excerpt: "Johns Hopkins Hospital began construction on a major expansion of its Sidney Kimmel Comprehensive Cancer Center to add outpatient treatment capacity."
 category: "healthcare"
 date: "2026-05-19"
-coverImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

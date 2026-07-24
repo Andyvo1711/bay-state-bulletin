@@ -4,7 +4,7 @@ slug: "university-of-maryland-college-park-enrollment-record"
 excerpt: "The University of Maryland, College Park welcomed its largest freshman class in school history this fall, with applications up sharply from last year."
 category: "education"
 date: "2026-06-08"
-coverImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

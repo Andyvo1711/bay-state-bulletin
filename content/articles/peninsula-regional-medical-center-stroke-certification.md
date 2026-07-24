@@ -4,7 +4,7 @@ slug: "peninsula-regional-medical-center-stroke-certification"
 excerpt: "Peninsula Regional Medical Center in Salisbury became the Eastern Shore's first hospital certified as a comprehensive stroke center."
 category: "healthcare"
 date: "2026-04-23"
-coverImage: "https://images.unsplash.com/photo-1551190822-a9333d879b1f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

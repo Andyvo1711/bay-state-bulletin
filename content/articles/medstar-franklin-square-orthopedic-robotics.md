@@ -4,7 +4,7 @@ slug: "medstar-franklin-square-orthopedic-robotics"
 excerpt: "MedStar Franklin Square Medical Center added a robotic-assisted surgery system to improve precision in hip and knee replacement procedures."
 category: "healthcare"
 date: "2025-11-05"
-coverImage: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

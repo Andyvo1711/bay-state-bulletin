@@ -4,7 +4,7 @@ slug: "salisbury-university-health-sciences-eastern-shore"
 excerpt: "Salisbury University is adding new nursing and physician assistant program seats to address healthcare worker shortages across Maryland's Eastern Shore."
 category: "education"
 date: "2026-02-19"
-coverImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1573497491765-dccce02b29df?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
