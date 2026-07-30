@@ -1,6 +1,6 @@
 # Bay State Bulletin
 
-A Maryland news aggregator built with **Next.js (App Router) + TypeScript + Tailwind CSS v4**.
+A Massachusetts news aggregator built with **Next.js (App Router) + TypeScript + Tailwind CSS v4**.
 Article content is stored as Markdown files (parsed with `gray-matter` + `remark`) — no database or CMS.
 
 ## Sections

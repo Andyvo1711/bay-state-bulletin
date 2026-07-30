@@ -11,8 +11,8 @@ export interface Category {
 
 /**
  * Order here is intentional and drives the homepage section order and nav.
- * Each section gets a distinct hue drawn from the Maryland palette
- * (Chesapeake navy, historic brick red, maritime gold) plus two
+ * Each section gets a distinct hue drawn from the Massachusetts palette
+ * (Boston Harbor navy, Beacon Hill brick, Liberty gold) plus two
  * complementary accents for scannability across five sections.
  */
 export const CATEGORIES: Category[] = [
@@ -20,35 +20,35 @@ export const CATEGORIES: Category[] = [
     slug: "education",
     name: "Education",
     tagline:
-      "Johns Hopkins, the University of Maryland, and the schools shaping the Old Line State's next generation.",
+      "Harvard, MIT, and the schools shaping the Bay State's next generation.",
     badgeClass: "bg-[#14395c]/10 text-[#14395c]",
   },
   {
     slug: "healthcare",
     name: "Healthcare",
     tagline:
-      "Johns Hopkins Medicine, UMMS, and the health systems keeping Maryland well.",
+      "Mass General Brigham, Boston Children's, and the systems keeping Massachusetts well.",
     badgeClass: "bg-[#8a2c2c]/10 text-[#8a2c2c]",
   },
   {
     slug: "business-leaders",
     name: "Business Leaders",
     tagline:
-      "The entrepreneurs and executives driving Maryland forward, from Baltimore to Bethesda.",
+      "The entrepreneurs and executives driving Massachusetts forward, from Boston to Cambridge.",
     badgeClass: "bg-[#c9982f]/15 text-[#7a5a17]",
   },
   {
     slug: "finance-economy",
     name: "Finance & Economy",
     tagline:
-      "The Port of Baltimore, the biotech corridor, and the economic pulse of the DC-Baltimore metro.",
+      "Boston's financial sector, the Route 128 tech corridor, and the economic pulse of New England.",
     badgeClass: "bg-cyan-700/10 text-cyan-800",
   },
   {
     slug: "beauty-wellness",
     name: "Beauty & Wellness",
     tagline:
-      "Spas, self-care, and the wellness rituals trending from Annapolis to Rockville.",
+      "Spas, self-care, and the wellness rituals trending from Back Bay to the Cape.",
     badgeClass: "bg-rose-500/10 text-rose-700",
   },
 ];

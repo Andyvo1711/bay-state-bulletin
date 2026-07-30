@@ -1,0 +1,20 @@
+---
+title: "Massachusetts Budget Analysts Warn of Widening Structural Deficit in Coming Years"
+slug: "massachusetts-state-budget-structural-deficit-warning"
+excerpt: "Massachusetts's nonpartisan budget analysts warned lawmakers that the state faces a widening structural deficit driven by rising Medicaid and education costs."
+category: "finance-economy"
+date: "2025-12-16"
+coverImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+featured: false
+imageCredit: "Photo: Unsplash"
+---
+
+Massachusetts's nonpartisan legislative budget analysts warned lawmakers this month that the state faces a widening structural deficit over the next several fiscal years, driven primarily by rising MassHealth enrollment costs and the ongoing implementation of the state's Student Opportunity Act education funding formula.
+
+The analysis projects the gap between projected state revenue and mandated spending will continue growing unless lawmakers either raise new revenue or scale back planned spending commitments, a dynamic budget officials described as a longer-term structural issue rather than a temporary shortfall tied to any single economic downturn.
+
+"This isn't a one-year problem that a good economy fixes on its own," said the state's chief budget analyst in testimony to lawmakers. "The spending commitments already built into current law are growing faster than the revenue structure we currently have can sustainably support."
+
+The report specifically flagged rising costs associated with the state's education funding formula overhaul, which commits the state to significantly increased per-pupil funding over the coming years, alongside enrollment growth in MassHealth that has outpaced earlier projections. Analysts said addressing the gap would likely require some combination of tax changes and spending adjustments rather than relying on one option alone.
+
+State lawmakers from both parties acknowledged the seriousness of the projections during budget hearings, though they differed sharply on preferred solutions, with some pointing to continued revenue from the state's millionaire's tax surcharge and others calling for slowing the pace of the education funding formula's phase-in. The governor's office said it would present a plan addressing the projected gap as part of the upcoming budget proposal.

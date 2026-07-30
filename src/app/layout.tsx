@@ -16,9 +16,9 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Bay State Bulletin — Maryland, covered right",
+  title: "Bay State Bulletin — Massachusetts, covered right",
   description:
-    "Bay State Bulletin covers Maryland education, healthcare, business leaders, finance and the economy, and beauty and wellness — the local stories that matter, reported plainly.",
+    "Bay State Bulletin covers Massachusetts education, healthcare, business leaders, finance and the economy, and beauty and wellness — the local stories that matter, reported plainly.",
 };
 
 export default function RootLayout({

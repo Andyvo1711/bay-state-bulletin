@@ -12,7 +12,7 @@ export default function Footer() {
             Bay State <span className="text-accent">Bulletin</span>
           </span>
           <p className="mt-3 text-sm text-muted">
-            A Maryland desk covering education, healthcare, business
+            A Massachusetts desk covering education, healthcare, business
             leadership, finance, and wellness — reported plainly, without the
             noise.
           </p>
