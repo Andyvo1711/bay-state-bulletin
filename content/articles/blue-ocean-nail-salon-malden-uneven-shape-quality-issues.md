@@ -4,7 +4,7 @@ slug: "blue-ocean-nail-salon-malden-uneven-shape-quality-issues"
 excerpt: "A client says her manicure came out with an uneven shape and a finish she felt wasn't worth the price, leading her to book another salon just to have it removed. A look at what shape consistency and quality checks can prevent."
 category: "beauty-wellness"
 date: "2026-06-25"
-coverImage: "https://images.pexels.com/photos/30294773/pexels-photo-30294773.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
+coverImage: "https://images.pexels.com/photos/3997377/pexels-photo-3997377.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 featured: false
 imageCredit: "Photo: Pexels"
 ---
