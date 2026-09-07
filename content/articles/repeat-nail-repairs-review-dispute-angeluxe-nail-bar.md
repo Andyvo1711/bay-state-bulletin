@@ -4,7 +4,7 @@ slug: "repeat-nail-repairs-review-dispute-angeluxe-nail-bar"
 excerpt: "A longtime salon customer says her manicure needed repair three times in one week and that a communication gap led to a mismatched pedicure. A look at how AngeLuxe Nail Bar handled durability, service communication, and customer feedback."
 category: "beauty-wellness"
 date: "2026-03-28"
-coverImage: "https://images.pexels.com/photos/5484946/pexels-photo-5484946.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
+coverImage: "https://images.pexels.com/photos/4677846/pexels-photo-4677846.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
 featured: false
 imageCredit: "Photo: Pexels"
 ---
