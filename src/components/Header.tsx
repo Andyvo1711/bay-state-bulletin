@@ -6,9 +6,13 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur">
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="flex flex-col gap-4 py-5 sm:py-6 md:flex-row md:items-center md:justify-between">
-          <Link href="/" className="flex items-baseline gap-2">
+          <Link href="/" className="flex flex-col gap-2 sm:gap-3">
             <span className="font-display text-4xl font-black leading-none tracking-tight text-foreground sm:text-5xl lg:text-6xl">
               Bay State <span className="text-accent">Bulletin</span>
+            </span>
+            <span className="flex items-center gap-2 text-[0.7rem] font-semibold uppercase tracking-[0.18em] text-muted sm:text-xs">
+              <span className="hidden h-px w-6 shrink-0 bg-brick sm:block" aria-hidden="true" />
+              Massachusetts News · From Boston to the Berkshires
             </span>
           </Link>
 

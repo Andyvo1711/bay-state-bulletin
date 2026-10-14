@@ -4,9 +4,9 @@ slug: "fidelity-investments-boston-headquarters-investment"
 excerpt: "Investment firm Fidelity Investments signed a long-term lease renewal for its Boston headquarters, easing concerns about the company relocating."
 category: "finance-economy"
 date: "2026-01-27"
-coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.pexels.com/photos/31127367/pexels-photo-31127367.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1600&h=900"
 featured: true
-imageCredit: "Photo: Unsplash"
+imageCredit: "Photo: Dominik Gryzbon / Pexels"
 ---
 
 Fidelity Investments, the Boston-based mutual fund and investment management firm, signed a long-term lease renewal for its downtown Boston headquarters this week, easing years of speculation among city officials about whether the company might eventually consolidate more operations outside Massachusetts.
