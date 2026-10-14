@@ -4,9 +4,9 @@ slug: "devon-park-boston-restaurant-group-expansion"
 excerpt: "Devon Park's Boston-based restaurant group is opening its first Providence location after a decade building a waterfront dining brand in the North End."
 category: "business-leaders"
 date: "2026-03-06"
-coverImage: "https://images.pexels.com/photos/1049403/pexels-photo-1049403.jpeg?auto=compress&cs=tinysrgb&w=1200"
+coverImage: "https://images.pexels.com/photos/10895800/pexels-photo-10895800.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1600&h=900"
 featured: false
-imageCredit: "Photo: Pexels"
+imageCredit: "Photo: Nadin Sh / Pexels"
 ---
 
 Devon Park, the founder of Boston-based Harborline Restaurant Group, is opening the company's first Providence location this fall, expanding a brand built over the past decade around seafood-focused dining near Boston's North End waterfront.

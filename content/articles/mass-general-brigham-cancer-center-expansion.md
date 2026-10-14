@@ -4,9 +4,9 @@ slug: "mass-general-brigham-cancer-center-expansion"
 excerpt: "Mass General Brigham began construction on a major expansion of its cancer center to add outpatient treatment capacity in Boston."
 category: "healthcare"
 date: "2026-05-19"
-coverImage: "https://images.unsplash.com/photo-1631563019676-dade0dbdb8fb?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.pexels.com/photos/11288654/pexels-photo-11288654.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1600&h=900"
 featured: false
-imageCredit: "Photo: Unsplash"
+imageCredit: "Photo: Jo McNamara / Pexels"
 ---
 
 Mass General Brigham broke ground this week on a major expansion of its Boston cancer center, a $260 million project that will add roughly 40 new outpatient infusion bays and expanded space for clinical trials on the Mass General campus.

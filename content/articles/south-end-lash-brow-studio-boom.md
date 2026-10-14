@@ -4,9 +4,9 @@ slug: "south-end-lash-brow-studio-boom"
 excerpt: "Eyelash extension and brow studios have opened rapidly along Boston's South End, reflecting a broader regional boom in specialized beauty microservices."
 category: "beauty-wellness"
 date: "2026-06-29"
-coverImage: "https://images.unsplash.com/photo-1522337094846-8a8b1d9bab0f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.pexels.com/photos/7755531/pexels-photo-7755531.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1600&h=900"
 featured: false
-imageCredit: "Photo: Unsplash"
+imageCredit: "Photo: RDNE Stock project / Pexels"
 ---
 
 Eyelash extension and brow studios have opened at a rapid pace along Boston's South End over the past two years, part of a broader regional trend of specialized beauty microservice businesses that focus narrowly on a single treatment category rather than offering a full salon menu.

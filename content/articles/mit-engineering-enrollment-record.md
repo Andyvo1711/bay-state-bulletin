@@ -4,9 +4,9 @@ slug: "mit-engineering-enrollment-record"
 excerpt: "MIT's School of Engineering enrolled its largest freshman cohort on record, extending a multi-year growth streak driven by rising demand for robotics and AI programs."
 category: "education"
 date: "2026-06-08"
-coverImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.pexels.com/photos/9242822/pexels-photo-9242822.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1600&h=900"
 featured: false
-imageCredit: "Photo: Unsplash"
+imageCredit: "Photo: Mikhail Nilov / Pexels"
 ---
 
 MIT's School of Engineering enrolled its largest incoming class on record this fall, admissions officials announced, marking the third consecutive year of enrollment growth in programs that have become increasingly selective as demand for robotics, AI, and computing talent surges nationally.
