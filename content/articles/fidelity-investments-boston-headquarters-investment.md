@@ -5,7 +5,7 @@ excerpt: "Investment firm Fidelity Investments signed a long-term lease renewal 
 category: "finance-economy"
 date: "2026-01-27"
 coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80"
-featured: false
+featured: true
 imageCredit: "Photo: Unsplash"
 ---
 

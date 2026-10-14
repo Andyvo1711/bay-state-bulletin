@@ -5,7 +5,7 @@ excerpt: "Harvard University opened a new cross-disciplinary institute dedicated
 category: "education"
 date: "2026-06-15"
 coverImage: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=1200&q=80"
-featured: true
+featured: false
 imageCredit: "Photo: Unsplash"
 ---
 
