@@ -33,8 +33,7 @@ export default function Footer() {
 
       <div className="border-t border-border px-4 py-5 sm:px-6">
         <p className="mx-auto max-w-6xl text-xs text-muted">
-          &copy; {year} Bay State Bulletin. All rights reserved. A sample
-          publication for demonstration purposes.
+          &copy; {year} Bay State Bulletin. All rights reserved.
         </p>
       </div>
     </footer>
